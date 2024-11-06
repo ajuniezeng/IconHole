@@ -33,6 +33,7 @@ def push_to_remote():
     os.system('git commit -m "Update icons"')
     os.system("git push origin main")
 
+
 if __name__ == "__main__":
     insert_icon("round")
     insert_icon("square")
