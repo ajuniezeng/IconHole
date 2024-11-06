@@ -1,3 +1,13 @@
+# How to use
+
+Copy your favorite icons to the `round` or `square` folder, and then run the following command to generate the json file.
+
+```bash
+python generate.py
+```
+
+You can make a new folder to store other types of icons, and then modify the `generate.py` file to generate the corresponding json file.
+
 ## 特别声明
 
 1. 本项目内所有资源文件，禁止任何公众号、自媒体进行任何形式的转载、发布。
