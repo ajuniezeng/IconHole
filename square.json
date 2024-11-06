@@ -831,6 +831,10 @@
       "url": "https://raw.githubusercontent.com/ajuniezeng/IconHole/main/square/SeseEmby1.png"
     },
     {
+      "name": "Seven",
+      "url": "https://raw.githubusercontent.com/ajuniezeng/IconHole/main/square/Seven.png"
+    },
+    {
       "name": "ShenLan",
       "url": "https://raw.githubusercontent.com/ajuniezeng/IconHole/main/square/ShenLan.png"
     },
@@ -1045,10 +1049,6 @@
     {
       "name": "Zzk1",
       "url": "https://raw.githubusercontent.com/ajuniezeng/IconHole/main/square/Zzk1.png"
-    },
-    {
-      "name": "seven",
-      "url": "https://raw.githubusercontent.com/ajuniezeng/IconHole/main/square/seven.png"
     }
   ]
 }

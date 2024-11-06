@@ -30,7 +30,7 @@ def insert_icon(type):
 
 def push_to_remote():
     os.system("git add .")
-    os.system('git commit -m "Update icons"')
+    os.system('git commit -m "update icons"')
     os.system("git push origin main")
 
 
