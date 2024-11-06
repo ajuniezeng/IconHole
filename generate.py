@@ -28,7 +28,13 @@ def insert_icon(type):
         json.dump(data, file, indent=2, ensure_ascii=False)
 
 
+def push_to_remote():
+    os.system("git add .")
+    os.system('git commit -m "Update icons"')
+    os.system("git push origin main")
+
 if __name__ == "__main__":
     insert_icon("round")
     insert_icon("square")
+    push_to_remote()
     print("Update successfully!")
